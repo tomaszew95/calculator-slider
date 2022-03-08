@@ -262,4 +262,4 @@ var setSliders = (sliders, exp, pageContainer) => {
         createSlider(sliders[i], info[i]);
         controlSlider(exp, info[i], sliderWidth, pageContainer);
     }
-}
+} 
